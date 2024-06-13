@@ -1,7 +1,6 @@
 import time
 from math import *
 
-#Exercice1
 import math
 def Dicho(f,a,b,N):
     s = []
@@ -65,7 +64,6 @@ print(Secante(f1,0,10,10))
 
 
 #----------------
-#Exercice2
 
 def fonction1(x):
     return x**2 - 2

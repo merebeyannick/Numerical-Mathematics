@@ -1,4 +1,3 @@
-#Exercice1
 
 function Dicho(f,a,b,N)
     s = []
@@ -54,7 +53,6 @@ function Newton(f,g,a,b,N)
 end
 
 #----------------
-#Exercice2
 
 function fonction1(x)
     return x^2 - 2
